@@ -5,10 +5,10 @@ This collection is a curated selection of the most useful Tampermonkey scripts, 
 To use these scripts, you will need to have the Tampermonkey extension installed on your browser. Once installed, simply click on the script you wish to use and press the "Install" button. The script will then be added to your Tampermonkey dashboard and will be automatically run whenever you visit the specified website.
 
 # Scripts Included
- Script 1: This script adds a sleek dark mode theme to your favorite social media platform.
- Script 2: This script automatically organizes and categorizes your bookmarks for easy access.
- Script 3: This script adds a to-do list feature to your browser's new tab page.
- Script 4: This script blocks annoying ads and pop-ups while browsing the web.
+Script 1: This script adds a sleek dark mode theme to your favorite social media platform.\
+Script 2: This script automatically organizes and categorizes your bookmarks for easy access.\
+Script 3: This script adds a to-do list feature to your browser's new tab page.\
+Script 4: This script blocks annoying ads and pop-ups while browsing the web.\
 
 This is just a small sample of the scripts included in this collection. With regular updates and new scripts added all the time, there's always something new to discover.
 
