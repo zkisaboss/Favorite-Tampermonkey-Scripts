@@ -1,7 +1,3 @@
-# Favorite-Tampermonkey-Scripts
-Curated collection of the most useful Tampermonkey scripts. Carefully handpicked to enhance your overall web experience.
-
-
 # Welcome to My Tampermonkey Script Collection
 This collection is a curated selection of the most useful Tampermonkey scripts, handpicked to enhance your overall web experience. Whether you're a power user looking to streamline your workflow or a casual browser looking to add some extra functionality, this collection has something for everyone.
 
